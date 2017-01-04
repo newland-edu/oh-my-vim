@@ -9,5 +9,8 @@ $ git clone https://github.com/jingjinghack/oh-my-vim
 $ cd oh-my-zsh
 $ chmod +x install.sh && ./install.sh
 ```
+## Plugins
+- vundle
+- vim-powerline
 
 
