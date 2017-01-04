@@ -21,6 +21,12 @@ filetype plugin indent on " filetype plugin indent on
 " Color Theme
 colorscheme seattle
 
+" Tab indentaion
+filetype indent on
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
 
 " Setting PowerLine
 set laststatus=2
