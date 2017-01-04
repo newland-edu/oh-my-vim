@@ -5,7 +5,7 @@ mkdir -p ~/.vim/bundle > /dev/null
 cp ./.vimrc ~/.vimrc > /dev/null
 cp -r ./colors ~/.vim > /dev/null
 
-git clone https://github.com/VundleVim/Vundle.vim ~/.vim/bundle > /dev/null
+git clone https://github.com/VundleVim/Vundle.vim ~/.vim/bundle/vundle > /dev/null
 
 cat oh-my-vim-logo
 
