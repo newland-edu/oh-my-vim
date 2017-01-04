@@ -8,9 +8,14 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 " Plugins
+" Bundle Plugins
 Bundle 'gmarik/vundle'
 Bundle 'Lokaltog/vim-powerline'
 "Bundle 'tomasr/molokai'
+
+" Vundle Plugins
+Plugin 'octol/vim-cpp-enhanced-highlight'
+
 filetype plugin indent on " filetype plugin indent on
 
 " Color Theme
