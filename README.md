@@ -12,5 +12,6 @@ $ chmod +x install.sh && ./install.sh
 ## Plugins
 - vundle
 - vim-powerline
+- vim-cpp-enhanced-highlight
 
 
