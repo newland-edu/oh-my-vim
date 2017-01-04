@@ -6,7 +6,7 @@ You need Linux or MaxOS PC.
 Enter commands:
 ```
 $ git clone https://github.com/jingjinghack/oh-my-vim
-$ cd oh-my-zsh
+$ cd oh-my-vim
 $ chmod +x install.sh && ./install.sh
 ```
 ## Plugins
